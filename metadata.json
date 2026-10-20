@@ -1,0 +1,6 @@
+{
+  "name": "ClientBase",
+  "description": "Lightweight desktop-first responsive CRM with customer directory, timeline interactions, segmentation, and follow-up reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

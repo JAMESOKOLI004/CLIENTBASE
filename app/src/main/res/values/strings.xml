@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ClientBase</string>
+    <string name="login_title">ClientBase CRM</string>
+    <string name="login_subtitle">Enterprise Relationship Management</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_customers">Customers</string>
+    <string name="nav_segments">Segments</string>
+    <string name="nav_reminders">Reminders</string>
+    <string name="add_customer">Add Customer</string>
+    <string name="add_interaction">Add Interaction</string>
+</resources>
